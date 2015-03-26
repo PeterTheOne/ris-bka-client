@@ -1,0 +1,10 @@
+{
+  "name": "ris-bka-client",
+  "version": "0.1.0",
+  "dependencies": {
+    "bootstrap": "^3.3.4",
+    "jquery": "^2.1.3",
+    "require": "^2.4.17",
+    "ris-bka": "^0.2.0"
+  }
+}
